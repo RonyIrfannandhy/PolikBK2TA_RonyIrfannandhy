@@ -2,7 +2,7 @@
 Aplikasi ini murni menggunakan PHP <br>
 Peserta Workshop Web Tugas Akhir Rony Irfannandhy Universitas Dian Nuswantoro Semarang Teknik Informatika
 <br>
-PRIVAT FILE
+<b> PRIVAT FILE </b>
 <br>
-DB = poli
+DB = poli <br>
 koneksi
